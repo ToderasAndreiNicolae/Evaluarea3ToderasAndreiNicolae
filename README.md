@@ -21,6 +21,8 @@ Capabilități: Sincronizare automată, editare colaborativă și căutare intel
 
 Specificație Funcțională: Sistemul trebuie să permită setarea a 3 niveluri de acces: Viewer, Commenter și Editor.
 
+Livrabil Backlog: https://github.com/users/ToderasAndreiNicolae/projects/2
+
 
 Specificație de Sistem: Aplicația trebuie să asigure criptarea datelor în repaus și în tranzit.
 
